@@ -15,7 +15,7 @@ img{
 }
 
 body{
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0);
 }
 
 
@@ -44,7 +44,7 @@ header{
 
 
 .hello{
-    color:gold;
+    color:rgb(255, 255, 255);
     margin-left: 50px;
 }
 
